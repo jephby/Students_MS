@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii 2 Basic Project Template
 ============================
 
@@ -90,3 +91,7 @@ return [
 **NOTE:** Yii won't create the database for you, this has to be done manually before you can access it.
 
 Also check and edit the other files in the `config/` directory to customize your application.
+=======
+# SMS
+a student managment system
+>>>>>>> 349afe7124e459f84b3c4bb79b00d467f55ce1c2
